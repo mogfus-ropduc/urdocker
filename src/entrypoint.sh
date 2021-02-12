@@ -1,4 +1,3 @@
 #!/bin/bash
 cd urbit
-ls
-./urbit
+./urbit -t $point
